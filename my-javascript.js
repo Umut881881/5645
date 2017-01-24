@@ -92,11 +92,11 @@ $(document).ready( function(){
 $(document).ready( function(){
 	
 	$('#bg-image').backstretch([
-		"http://i.hizliresim.com/NkoWYa.jpg"
-	  , "http://i.hizliresim.com/NkoWYa.jpg"
-	  , "http://i.hizliresim.com/PPRMlN.jpg"
-	  , "http://i.hizliresim.com/EryZkq.jpg"
-	  , "http://i.hizliresim.com/OVyP13.jpg"
+		"http://i.hizliresim.com/6rWJyv.jpg"
+	  , "http://i.hizliresim.com/3vGEDj.jpg"
+	  , "http://i.hizliresim.com/g2MOVL.jpg"
+	  , "http://i.hizliresim.com/JqbQkq.jpg"
+	  , "http://i.hizliresim.com/MoAd67.jpg"
 	  , "http://i.hizliresim.com/NkoWYa.jpg"
 	  , "http://i.hizliresim.com/NkoWYa.jpg"
 	  , "http://i.hizliresim.com/NkoWYa.jpg"
